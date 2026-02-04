@@ -1,0 +1,19 @@
+Starting Report Files
+Starting to Load and Hash-Code Documents
+Loading Z:\Users\jameslow\Library\Mobile Documents\com~apple~CloudDocs\Personal\Publications\SG Economic Treaties\FTAs\2. Cambodia\CA-China (2020).txt
+Loading Z:\Users\jameslow\Library\Mobile Documents\com~apple~CloudDocs\Personal\Publications\SG Economic Treaties\FTAs\2. Cambodia\CA-ROK (2021).txt
+Loading Z:\Users\jameslow\Library\Mobile Documents\com~apple~CloudDocs\Personal\Publications\SG Economic Treaties\FTAs\2. Cambodia\CA-UAE (2023).txt
+Loading Z:\Users\jameslow\Library\Mobile Documents\com~apple~CloudDocs\Personal\Publications\SG Economic Treaties\FTAs\2. Cambodia\CA-US (2025).txt
+Loading Z:\Users\jameslow\Library\Mobile Documents\com~apple~CloudDocs\Personal\Publications\SG Economic Treaties\FTAs\0. ASEAN\ASEAN FTA.txt
+Done Loading Documents
+Starting to Compare Documents
+Comparing Documents, 1 Completed
+Match: 4158	4158	4158	Z:\Users\jameslow\Library\Mobile Documents\com~apple~CloudDocs\Personal\Publications\SG Economic Treaties\FTAs\0. ASEAN\ASEAN FTA.txt	Z:\Users\jameslow\Library\Mobile Documents\com~apple~CloudDocs\Personal\Publications\SG Economic Treaties\FTAs\2. Cambodia\CA-China (2020).txt
+Comparing Documents, 2 Completed
+Match: 2587	2587	2587	Z:\Users\jameslow\Library\Mobile Documents\com~apple~CloudDocs\Personal\Publications\SG Economic Treaties\FTAs\0. ASEAN\ASEAN FTA.txt	Z:\Users\jameslow\Library\Mobile Documents\com~apple~CloudDocs\Personal\Publications\SG Economic Treaties\FTAs\2. Cambodia\CA-ROK (2021).txt
+Comparing Documents, 3 Completed
+Match: 4095	4095	4095	Z:\Users\jameslow\Library\Mobile Documents\com~apple~CloudDocs\Personal\Publications\SG Economic Treaties\FTAs\0. ASEAN\ASEAN FTA.txt	Z:\Users\jameslow\Library\Mobile Documents\com~apple~CloudDocs\Personal\Publications\SG Economic Treaties\FTAs\2. Cambodia\CA-UAE (2023).txt
+Comparing Documents, 4 Completed
+Done Comparing Documents
+Finishing Report Files
+Done. Total CPU Time: 0.206 seconds

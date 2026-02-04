@@ -1,0 +1,11 @@
+Starting Report Files
+Starting to Load and Hash-Code Documents
+Loading Z:\Users\jameslow\Library\Mobile Documents\com~apple~CloudDocs\Personal\Publications\SG Economic Treaties\FTAs\1. Brunei\146_Brunei Japan_2007Cut.txt
+Loading Z:\Users\jameslow\Library\Mobile Documents\com~apple~CloudDocs\Personal\Publications\SG Economic Treaties\FTAs\0. ASEAN\ASEAN FTA.txt
+Done Loading Documents
+Starting to Compare Documents
+Comparing Documents, 1 Completed
+Match: 3964	3964	3964	Z:\Users\jameslow\Library\Mobile Documents\com~apple~CloudDocs\Personal\Publications\SG Economic Treaties\FTAs\0. ASEAN\ASEAN FTA.txt	Z:\Users\jameslow\Library\Mobile Documents\com~apple~CloudDocs\Personal\Publications\SG Economic Treaties\FTAs\1. Brunei\146_Brunei Japan_2007Cut.txt
+Done Comparing Documents
+Finishing Report Files
+Done. Total CPU Time: 0.073 seconds
